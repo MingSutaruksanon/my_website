@@ -9,13 +9,13 @@ params:
     buttonText: Get Started
     subtitle: |-
       --------------------------------.
-    title: Hi, my name is Ming
+    title: Hi, my name is Ming Sutaruksanon
   blog: {}
-  contact:
-    address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+  contact: (+44 7780 775738)
+    address: Flat 48B Hanovergate Mansions
+      - city: London, NW14SN
+        country: UK
+        street: Park road, Marylebone
         title: Address
     buttonClear: Clear
     buttonSend: Send message
