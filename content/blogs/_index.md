@@ -6,4 +6,4 @@ slug: blogs
 title: Lifestyle
 ---
 
-My blogs about technology and lifestyle.
+Always set new goals to challenge my limits

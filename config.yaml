@@ -75,12 +75,12 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: 
+    title: mmingmg
   tiles:
     enable: yes
     showcase:
-      - image: IMG_2904.jpg
+      - image: fam.JPG
         subtitle: 4 member
         title: My family
         url: blogs/aliquam
@@ -101,9 +101,9 @@ params:
         title: Extra activities
         url: blogs/ipsum
       - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
+        subtitle: 
         title: CV
-        url: blogs/ipsum
+        url: blogs/5
   two:
     buttonText: Dive deeper into my world
     enable: yes
