@@ -4,17 +4,17 @@ title: Ming Sutaruksanon
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
-params:
-  banner:
+params: 
+  banner: 
     buttonText: Get Started
-    subtitle:|
+    subtitle: |
       --------------------------------.
-    title: Hi, my name is Ming
+    title: "Hi, my name is Ming"
   blog: {}
   contact: 
-    address:
-      - city: Flat48B Handovergate mansions, London NW14SN
-        country: UK
+    address: 
+      - city: London
+        country: UK, NW14SN
         street: Park road, Marylebone
         title: Address
     buttonClear: Clear
@@ -29,11 +29,11 @@ params:
   custom_css: []
   custom_js: []
   description: Your description
-  error404:
+  error404: 
     heading: Page couldn't be found
     text: Please visit [this page](/)
   favicon: favicon.ico
-  footer:
+  footer: 
     copyright: Company Name
     enable: yes
     quicklinks:
