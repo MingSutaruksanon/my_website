@@ -8,6 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |Kochakorn Sutaruksanon
+    
       --------------------------------.
     title: Hi, my name is Ming
   blog: {}
