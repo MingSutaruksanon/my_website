@@ -9,10 +9,10 @@ params:
     buttonText: Get Started
     subtitle: |-
       --------------------------------.
-    title: Hi, my name is Ming Sutaruksanon
+    title: Hi, my name is Ming 
   blog: {}
-  contact: (+44 7780 775738)
-    address: Flat 48B Hanovergate Mansions
+  contact: (+447780775738)
+    address: Flat Hanovergate Mansions
       - city: London, NW14SN
         country: UK
         street: Park road, Marylebone
