@@ -6,10 +6,10 @@ googleAnalytics: ''
 disqusShortname: ''
 params: 
   banner: 
-    buttonText: Get Started
+    buttonText: Are you ready?
     subtitle: | 
      --------------------------------.
-    title: "Hi, my name is Ming"
+    title: "Hey, I'm Ming"
   blog: {}
   contact: 
     address: 
@@ -37,7 +37,7 @@ params:
     copyright: Company Name
     enable: yes
     quicklinks:
-      - alt: HTML5 UP
+      - alt: Click here
         text: 'Design: '
         url: https://www.html5up.net
     social:
@@ -80,38 +80,33 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Education
+      - image: IMG_2904.jpg
+        subtitle: 4 member
+        title: My family
         url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+      - image: IMG_3819.jpg
+        subtitle: Thailand, Canada, UK
+        title: Education
         url: blogs/tempus
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+        subtitle: my journey
+        title: Business experience
         url: blogs/magna
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        title: Achievements
         url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
+      - image: IMG_3410.jpg
+        subtitle: Sport & cooking
+        title: Extra activities
         url: blogs/ipsum
       - image: pic06.jpg
         subtitle: Feugiat Amet Tempus
-        title: Etiam
+        title: CV
         url: blogs/ipsum
   two:
-    buttonText: Get Started
+    buttonText: Dive deeper into my world
     enable: yes
-    subtitle: "My name is Ming Sutaruksanon et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Hello libero
+    subtitle: "Hi everyone! I was born in Bangkok, Thailand. Now, I am studying a Master of Financial Analysis at London Business School, London, UK. I discover my passion to digest new information, catch on a trend and seek investment opportunities to gain abnormal return. I enjoy swimming and cooking! especially, international food.  "
+    title: Kochakorn Sutaruksanon (Ming)
     url: blogs
