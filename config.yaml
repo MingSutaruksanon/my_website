@@ -55,7 +55,7 @@ params:
         url: https://github.com/MingSutaruksanon
       - icon: fa-linkedin
         label: LinkedIn
-        url: www.linkedin.com/in/kochakorn-sut
+        url: https://www.linkedin.com/in/kochakorn-sut/
   image: ''
   name: Your name
   navigation:
@@ -82,7 +82,7 @@ params:
     showcase:
       - image: pic01.jpg
         subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        title: Education
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
@@ -107,7 +107,7 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "My name is Ming et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+    subtitle: "My name is Ming Sutaruksanon et orci eu lorem consequat tincidunt vivamus et sagittis libero.
       \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
       condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
       pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
