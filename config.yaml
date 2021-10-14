@@ -7,14 +7,13 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    subtitle: |Kochakorn Sutaruksanon
-    
+    subtitle:|
       --------------------------------.
     title: Hi, my name is Ming
   blog: {}
   contact: 
-    address: Flat Hanovergates Mansions
-      - city: London, NW14SN
+    address:
+      - city: Flat48B Handovergate mansions, London NW14SN
         country: UK
         street: Park road, Marylebone
         title: Address
