@@ -29,4 +29,6 @@ title: Biography
 - Thai (native)
 - English (fluent)
 
+## CV/Resume
+[Click here to download](https://rpubs.com/Ming_Sutaruksanon/CV-Resume)
 

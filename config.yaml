@@ -7,8 +7,8 @@ disqusShortname: ''
 params: 
   banner:
     buttonText: Are you ready?
-    subtitle: | 
-     --------------------------------.
+    subtitle: |
+     -enjoy life right now-
     title: "Hey, I'm Ming"
   blog: {}
   contact: 
@@ -35,7 +35,7 @@ params:
   favicon: favicon.ico
   footer: 
     copyright: Company Name
-    enable: yes
+    enable: no
     quicklinks:
       - alt: Click here
         text: 'Design: '
@@ -62,9 +62,9 @@ params:
     button1:
       - name: Get Started
         url: blogs
-    button2:
-      - name: Log In
-        url: '#'
+#    button2:
+ #     - name: Log In
+ #       url: '#'
     links:
       - name: Home
         url: '#'
@@ -76,12 +76,12 @@ params:
         url: elements.html
     menu: Menu
     subtitle: 
-    title: mmingmg
+    title: Ming Sutaruksanon
   tiles:
     enable: yes
     showcase:
       - image: IMG_2904.jpg
-        subtitle: 
+        subtitle: CV/Resume
         title: Biography
         url: blogs/aliquam
       - image: yield_curve3.png
@@ -92,9 +92,9 @@ params:
         subtitle: under my coverage
         title: My stock research
         url: blogs/magna
-      - image: pic04.jpg
+      - image: money.JPG
         subtitle: Code (Stata)
-        title: Exchange rate and Tourism industry
+        title: My macro/industry Research
         url: blogs/ipsum
 #      - image: IMG_3410.jpg
  #       subtitle: Sport & cooking
