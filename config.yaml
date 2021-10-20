@@ -70,10 +70,14 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
+      - name: Biography
+        url: blogs/aliquam
+      - name: My stock research
+        url: blogs/magna
+      - name: My macro/industry research
         url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      - name: Code R Studio
+        url: blogs/tempus
     menu: Menu
     subtitle: 
     title: Ming Sutaruksanon
