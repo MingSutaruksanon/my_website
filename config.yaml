@@ -34,12 +34,12 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer: 
-    copyright: Company Name
-    enable: no
+    copyright: Ming Sutaruksanon
+    enable: yes
     quicklinks:
       - alt: Click here
-        text: 'Design: '
-        url: https://www.html5up.net
+        text: 'CV/Resume: '
+        url: https://rpubs.com/Ming_Sutaruksanon/CV-Resume
     social:
 #      - icon: fa-twitter
 #       label: Twitter
