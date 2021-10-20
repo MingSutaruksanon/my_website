@@ -81,7 +81,7 @@ params:
     menu: Menu
     subtitle: 
     title: Ming Sutaruksanon
-  tiles:
+  tiles: 
     enable: yes
     showcase:
       - image: IMG_2904.jpg
